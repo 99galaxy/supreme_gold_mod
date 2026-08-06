@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "supreme_gold:item/eternal_diamond_sword"
+  }
+}

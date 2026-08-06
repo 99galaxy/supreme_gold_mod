@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "amount": 100,
+      "tag": "tconstruct:molten_diamond"
+    },
+    {
+      "amount": 90,
+      "tag": "forge:molten_gold"
+    }
+  ],
+  "result": {
+    "amount": 90,
+    "tag": "forge:molten_supreme_gold"
+  },
+  "temperature": 1250
+}

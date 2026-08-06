@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "supreme_gold:eternal_diamond",
+  "result": {
+    "amount": 100,
+    "tag": "forge:molten_eternal_diamond"
+  },
+  "temperature": 1450
+}

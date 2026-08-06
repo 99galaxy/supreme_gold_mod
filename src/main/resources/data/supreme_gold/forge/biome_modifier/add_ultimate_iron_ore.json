@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    "supreme_gold:ore_ultimate_iron_small",
+    "supreme_gold:ore_ultimate_iron_middle",
+    "supreme_gold:ore_ultimate_iron_upper"
+  ],
+  "step": "underground_ores"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_nether",
+  "features": [
+    "supreme_gold:ore_eternal_diamond"
+  ],
+  "step": "underground_ores"
+}

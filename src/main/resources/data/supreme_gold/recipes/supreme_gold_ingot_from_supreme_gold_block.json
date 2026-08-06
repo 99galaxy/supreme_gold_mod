@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "supreme_gold_ingot",
+  "ingredients": [
+    {
+      "item": "supreme_gold:supreme_gold_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "supreme_gold:supreme_gold_ingot"
+  }
+}

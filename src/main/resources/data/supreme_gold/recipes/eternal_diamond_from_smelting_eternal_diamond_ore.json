@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "group": "eternal_diamond",
+  "ingredient": {
+    "item": "supreme_gold:eternal_diamond_ore"
+  },
+  "result": "supreme_gold:eternal_diamond"
+}

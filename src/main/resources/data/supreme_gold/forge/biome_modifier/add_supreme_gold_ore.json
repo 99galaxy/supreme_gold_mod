@@ -1,0 +1,11 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    "supreme_gold:ore_test_ingot",
+    "supreme_gold:ore_test_ingot_medium",
+    "supreme_gold:ore_test_ingot_small",
+    "supreme_gold:ore_test_ingot_buried"
+  ],
+  "step": "underground_ores"
+}

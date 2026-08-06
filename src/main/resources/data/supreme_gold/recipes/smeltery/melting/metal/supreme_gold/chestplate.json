@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:damagable_melting",
+  "ingredient": {
+    "item": "supreme_gold:supreme_gold_chestplate"
+  },
+  "result": {
+    "amount": 720,
+    "tag": "forge:molten_supreme_gold",
+    "unit_size": 10
+  },
+  "temperature": 1250,
+  "time": 170
+}

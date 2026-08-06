@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "supreme_gold:supreme_gold_ore",
+    "supreme_gold:deepslate_supreme_gold_ore",
+    "supreme_gold:supreme_gold_block",
+    "supreme_gold:ultimate_iron_ore",
+    "supreme_gold:deepslate_ultimate_iron_ore",
+    "supreme_gold:ultimate_iron_block",
+    "supreme_gold:eternal_diamond_ore"
+  ]
+}

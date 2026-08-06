@@ -1,0 +1,20 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All rights reserved"
+issueTrackerURL=""
+logoFile="assets/supreme_gold/icon.png"
+logoBlur=false
+
+[[mods]]
+modId="supreme_gold"
+version="1.0.0"
+displayName="Supreme Gold"
+authors="99_galaxy"
+description='''这个mod给你的世界添加了一些“超级”矿石！'''
+
+[[dependencies.supreme_gold]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"

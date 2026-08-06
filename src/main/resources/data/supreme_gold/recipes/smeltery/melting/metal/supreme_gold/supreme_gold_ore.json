@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:ore_melting",
+  "ingredient": {
+    "item": "supreme_gold:supreme_gold_ore"
+  },
+  "rate": "metal",
+  "result": {
+    "amount": 90,
+    "tag": "forge:molten_supreme_gold"
+  },
+  "temperature": 1250,
+  "time": 142
+}

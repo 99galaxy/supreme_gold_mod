@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "group": "supreme_gold_ingot",
+  "ingredient": {
+    "item": "supreme_gold:supreme_gold_ore"
+  },
+  "result": "supreme_gold:supreme_gold_ingot"
+}

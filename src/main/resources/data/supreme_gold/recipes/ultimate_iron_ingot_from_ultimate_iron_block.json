@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "ultimate_iron_ingot",
+  "ingredients": [
+    {
+      "item": "supreme_gold:ultimate_iron_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "supreme_gold:ultimate_iron_ingot"
+  }
+}

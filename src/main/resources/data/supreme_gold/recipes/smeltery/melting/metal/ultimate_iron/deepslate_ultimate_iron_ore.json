@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:ore_melting",
+  "ingredient": {
+    "item": "supreme_gold:deepslate_ultimate_iron_ore"
+  },
+  "rate": "metal",
+  "result": {
+    "amount": 90,
+    "tag": "forge:molten_ultimate_iron"
+  },
+  "temperature": 1100,
+  "time": 135
+}

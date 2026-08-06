@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:gems/eternal_diamond"
+  },
+  "result": {
+    "amount": 100,
+    "tag": "forge:molten_eternal_diamond"
+  },
+  "temperature": 1450,
+  "time": 79
+}

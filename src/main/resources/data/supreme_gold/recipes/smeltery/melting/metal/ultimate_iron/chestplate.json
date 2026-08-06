@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:damagable_melting",
+  "ingredient": {
+    "item": "supreme_gold:ultimate_iron_chestplate"
+  },
+  "result": {
+    "amount": 720,
+    "tag": "forge:molten_ultimate_iron",
+    "unit_size": 10
+  },
+  "temperature": 1100,
+  "time": 170
+}

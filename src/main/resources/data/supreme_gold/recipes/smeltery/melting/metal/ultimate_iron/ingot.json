@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "tag": "forge:ingots/ultimate_iron"
+  },
+  "result": {
+    "amount": 90,
+    "tag": "forge:molten_ultimate_iron"
+  },
+  "temperature": 1100,
+  "time": 70
+}
